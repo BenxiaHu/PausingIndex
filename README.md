@@ -22,6 +22,6 @@ argparse
 pysam  
 pybedtools  
 
-#### pip install PausingIndex==1.00
-https://pypi.org/project/PausingIndex/1.00/
+#### pip install PausingIndex==1.0
+https://pypi.org/project/PausingIndex/1.0/
 # PausingIndex
